@@ -2,6 +2,7 @@
 ![Website logo ](/images/afford_your_dreams_logo.jpg)
 
 ## *````AFFORD YOUR DREAMS````*:heavy_check_mark:
+> Toghether We Accomplish
 
 
 ## What Is This emoji-cheat-sheet_README.md at master · ikatyang_emoji-cheat-sheet
