@@ -8,7 +8,7 @@
 ## What Is This emoji-cheat-sheet_README.md at master · ikatyang_emoji-cheat-sheet
 ### FINAL PROJECT  runs between all the subject. Each subjects has its own requirements. This project is Worth 30% of My final grades. The main aim is to make one website for all the subjects.
 
-## Steps I Followed
+## Steps to Followed
 
 1. Created rough ideas on website and discussed with professors.
 2. For Digital media, I clicked images and edited in photoshop.
@@ -17,6 +17,9 @@
 5. I started coding using HTML, CSS. This was for Multimedia Production.
 6. last but least, For Multimedia Authoring, I created a repository, pushed everything on master branch and created Readme file.
 7. Present the final version of website to all the professors.
+[Website ](For more detail on project [Click Here ](https://docs.google.com/document/d/1P0IYK4Atj3c8UzFIG-Oym_3JDej8aRX3jJOaRiSQJ-8/edit)
+)
+
 
 ## prerequisities 
 ### Creating a website which integrates all the requirements for all subjects of IDP3. Present tyhe website infront of all professors.
