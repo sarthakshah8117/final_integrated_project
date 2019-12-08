@@ -6,7 +6,7 @@
 
 
 ## What Is This emoji-cheat-sheet_README.md at master · ikatyang_emoji-cheat-sheet
-###FINAL PROJECT  runs between all the subject. Each subjects has its own requirements. This project is Worth 30% of My final grades. The main aim is to make one website for all the subjects.
+### FINAL PROJECT  runs between all the subject. Each subjects has its own requirements. This project is Worth 30% of My final grades. The main aim is to make one website for all the subjects.
 
 ## Steps I Followed
 
