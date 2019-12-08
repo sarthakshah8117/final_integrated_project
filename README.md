@@ -1,10 +1,11 @@
-# final_integrated_project
+# final_integrated_project:house:
 ![Website logo ](/images/afford_your_dreams_logo.jpg)
 
-## ````AFFORD YOUR DREAMS````
+## *````AFFORD YOUR DREAMS````*:heavy_check_mark:
 
 
-## FINAL PROJECT  runs between all the subject. Each subjects has its own requirements. This project is Worth 30% of My final grades. The main aim is to make one website for all the subjects.
+## What Is This emoji-cheat-sheet_README.md at master · ikatyang_emoji-cheat-sheet
+###FINAL PROJECT  runs between all the subject. Each subjects has its own requirements. This project is Worth 30% of My final grades. The main aim is to make one website for all the subjects.
 
 ## Steps I Followed
 
@@ -23,9 +24,9 @@
 ###There must =be atleast 7 photos clicked by yourself and edited in photoshop. Also use tthe flexbox given to design and code the website accordingly.
 
 ## Author 
-Sarthak Ashvinbhai Shah
+Sarthak Ashvinbhai Shah:india:
 
 ## license
-### This project is licensed under ````Fanshawe college````. 
+### **This project is licensed under ````Fanshawe college````**. 
 
 
